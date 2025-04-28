@@ -9,7 +9,7 @@ This repository contains a collection of machine learning projects implemented f
 | [Classification Fundamentals](./classification-fundamentals) | Implementation of KNN and Decision Tree algorithms from scratch to classify health and biological datasets | K-Nearest Neighbors, Decision Trees, ROC curves, Feature importance analysis | 85%+ accuracy on health prediction tasks |
 | [Linear Models](./linear-models) | Implementation of logistic regression and multiclass classification from scratch | Binary & multiclass logistic regression, Gradient descent optimization, Feature importance visualization | Effective classification with interpretable feature weights |
 | [Neural Networks](./neural-networks) | Custom neural network framework for Japanese character recognition | Multilayer perceptrons, Backpropagation, CNN architectures, Regularization techniques | 92% accuracy on Kuzushiji-MNIST dataset |
-| [Transformers](./transformers) | Fine-tuning BERT models for news classification | Transformer models, Transfer learning, Attention visualization, Zero-shot learning | 15% performance improvement over traditional methods |
+| [Transformers] (reach out to get the code) | Fine-tuning BERT models for news classification | Transformer models, Transfer learning, Attention visualization, Zero-shot learning | 15% performance improvement over traditional methods |
 
 ## Technologies Used
 
